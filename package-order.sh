@@ -7,4 +7,5 @@ DIRS=(
   "packages/attributes"
   "packages/drops"
   "packages/moments"
+  "packages/distribution"
 )
